@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Srijal Kumar\Desktop\GoQuantEngine\build\CMakeFiles\389c0acbb50c33e2d438a7cec4af86f4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{242767CF-76FD-3DF2-97DD-DD251963D3C7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

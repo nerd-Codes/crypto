@@ -1,0 +1,3 @@
+C:/Users/Srijal Kumar/Desktop/GoQuantEngine/build/CMakeFiles/engine.dir
+C:/Users/Srijal Kumar/Desktop/GoQuantEngine/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Srijal Kumar/Desktop/GoQuantEngine/build/CMakeFiles/ZERO_CHECK.dir
